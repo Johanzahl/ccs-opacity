@@ -1,0 +1,27 @@
+    p{
+    color: white;
+    background-color: orange;
+    }
+    img{
+      opacity: 0.5;
+    }
+    img:hover {
+    opacity: 1;
+  }
+  div{
+    color: black;
+  }
+  *{
+    background-color: orange;
+    border: 2px solid red;
+    font-size: large;
+    margin: 10px;
+    }
+    h1{
+        background-color: rgb(75, 5, 5);
+        color: white;
+    }
+    button{
+      color: black;
+      background-color: white;
+    }
